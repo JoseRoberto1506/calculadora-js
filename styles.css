@@ -73,3 +73,8 @@
   color: var(--white);
   font-size: 2rem;
 }
+
+.selected {
+  background-color: var(--white);
+  color: var(--vivid-gamboge);
+}
